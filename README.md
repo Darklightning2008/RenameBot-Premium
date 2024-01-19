@@ -1,4 +1,6 @@
 # Rename Bot Premium Repo. Give a star and Use the Repo as your need.
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?templatehttps://github.com/
+Darklightning2008/RENAMER_BOT_V3)
 
 ----
 
